@@ -1,0 +1,11 @@
+送付ファイルリスト
+
+ledpanel-001.cmp （部品面パターンデータ）
+ledpanel-001.gpi （レポートファイル）
+ledpanel-001.plc （部品面シルクデータ）
+ledpanel-001.sol （半田面パターンデータ）
+ledpanel-001.stc （部品面レジストデータ）
+ledpanel-001.sts （半田面レジストデータ）
+ledpanel-001.out （外形線データ）
+ledpanel-001.dri （ドリルリスト）
+ledpanel-001.drd （ドリルデータ）
